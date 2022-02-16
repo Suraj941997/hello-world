@@ -6,7 +6,7 @@
 <style>   
 Body {  
   font-family: Calibri, Helvetica, sans-serif;  
-  background-color: pink;  
+  background-color: black;  
 }  
 button {   
        background-color: #4CAF50;   
@@ -29,7 +29,7 @@ button {
         box-sizing: border-box;   
     }  
  button:hover {   
-        opacity: 0.7;   
+        opacity: 1.7;   
     }   
   .cancelbtn {   
         width: auto;   
